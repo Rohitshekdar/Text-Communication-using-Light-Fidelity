@@ -1,1 +1,3 @@
 # Text-Communication-using-Light-Fidelity
+In this project we have tested the performance analysis of Light Fidelity while comparing it with current technology of Wi-Fi. We have also conducted in depth experiment and found out results that how the light fidelity's performance vary in the presence and in the absence of external light sources.
+We successfully demonstated the transmission of the text using light fidelity in 3 environment testbeds like indoor room with and without light sources and later in outdoor environment. For the synchronization of these transreceivers we set the delay of 5ms on both sides.
